@@ -1,0 +1,20 @@
+<svg data-name="Group 107" xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Combined Shape" d="M17.273 20H9.091a2.73 2.73 0 0 1-2.727-2.727V9.091a2.73 2.73 0 0 1 2.727-2.727h8.182A2.73 2.73 0 0 1 20 9.091v8.182A2.73 2.73 0 0 1 17.273 20ZM9.091 8.182a.91.91 0 0 0-.909.909v8.182a.91.91 0 0 0 .909.909h8.182a.91.91 0 0 0 .909-.909V9.091a.91.91 0 0 0-.909-.909Zm-5.455 5.455h-.909A2.731 2.731 0 0 1 0 10.909V2.727A2.73 2.73 0 0 1 2.727 0h8.182a2.731 2.731 0 0 1 2.728 2.727v.909a.909.909 0 1 1-1.819 0v-.909a.91.91 0 0 0-.909-.909H2.727a.91.91 0 0 0-.909.909v8.182a.91.91 0 0 0 .909.909h.909a.909.909 0 1 1 0 1.819Z" fill="#8c95b0"/>
+        </clipPath>
+        <filter id="b" x="-60.909" y="-42.909" width="141.819" height="141.819" filterUnits="userSpaceOnUse">
+            <feOffset dy="18"/>
+            <feGaussianBlur stdDeviation="20" result="blur"/>
+            <feFlood flood-color="#6b67d2" flood-opacity=".349"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <path data-name="Combined Shape" d="M3.636 11.818h-.909a.909.909 0 0 1-.909-.909V2.727a.909.909 0 0 1 .909-.909h8.182a.909.909 0 0 1 .909.909v.909a.909.909 0 1 0 1.818 0v-.909A2.727 2.727 0 0 0 10.909 0H2.727A2.727 2.727 0 0 0 0 2.727v8.182a2.727 2.727 0 0 0 2.727 2.727h.909a.909.909 0 1 0 0-1.818Z" fill="#8c95b0"/>
+    <g data-name="Mask Group 107" clip-path="url(#a)">
+        <g filter="url(#b)">
+            <path data-name="↳ Icon Color" fill="#8c95b0" d="M-.91-.91h21.819v21.819H-.91z"/>
+        </g>
+    </g>
+</svg>

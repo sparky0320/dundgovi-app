@@ -1,0 +1,31 @@
+{
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  // "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 1.8,
+  "editor.wordWrap": "on",
+  "breadcrumbs.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "git.openRepositoryInParentFolders": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+
+  "files.associations": {
+    "*.yaml": "dart"
+  },
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.inlayHints.enabled": "offUnlessPressed"
+  }
+  // "window.zoomLevel": -1
+}

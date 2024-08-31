@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 21.997">
+    <defs>
+        <clipPath id="a">
+            <path class="a" d="M11 22a3.008 3.008 0 0 1-2.595-1.5A1 1 0 0 1 9.27 19h3.46a1 1 0 0 1 .866 1.5A3.011 3.011 0 0 1 11 22Zm10-5H1a1 1 0 0 1 0-2 2 2 0 0 0 2-2V8a8 8 0 0 1 16 0v5a2 2 0 0 0 2 2 .959.959 0 0 1 1 1 1.029 1.029 0 0 1-.25.687A.97.97 0 0 1 21 17ZM11 2a6.007 6.007 0 0 0-6 6v5a4 4 0 0 1-.536 2h13.07A4 4 0 0 1 17 13V8a6.007 6.007 0 0 0-6-6Z" transform="translate(1 1)"/>
+        </clipPath>
+        <filter id="b" x="-61" y="-43" width="144" height="144" filterUnits="userSpaceOnUse">
+            <feOffset dy="18"/>
+            <feGaussianBlur stdDeviation="20" result="c"/>
+            <feFlood flood-color="#6b67d2" flood-opacity=".349"/>
+            <feComposite operator="in" in2="c"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .a{fill:#fff}
+        </style>
+    </defs>
+    <path class="a" d="M13.595 20.5a3 3 0 0 1-5.19 0A1 1 0 0 1 9.27 19h3.46a1 1 0 0 1 .865 1.5Z"/>
+    <g style="clip-path:url(#a)" transform="translate(-1 -1)">
+        <path class="a" d="M0 0h24v24H0z" style="filter:url(#b)"/>
+    </g>
+</svg>

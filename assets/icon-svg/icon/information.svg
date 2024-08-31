@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+    <defs>
+        <clipPath id="a">
+            <path class="a" d="M2.783 16.217A9.5 9.5 0 1 1 16.217 2.783 9.5 9.5 0 1 1 2.783 16.217ZM1.727 9.5A7.773 7.773 0 1 0 9.5 1.727 7.782 7.782 0 0 0 1.727 9.5Zm6.909 3.455V9.5a.864.864 0 1 1 1.727 0v3.455a.864.864 0 0 1-1.727 0ZM8.89 7.52a.865.865 0 1 1 .61.252.864.864 0 0 1-.61-.252Z"/>
+        </clipPath>
+        <filter id="b" x="-60.864" y="-42.864" width="140.727" height="140.727" filterUnits="userSpaceOnUse">
+            <feOffset dy="18"/>
+            <feGaussianBlur stdDeviation="20" result="c"/>
+            <feFlood flood-color="#6b67d2" flood-opacity=".349"/>
+            <feComposite operator="in" in2="c"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .a{fill:#8c95b0}
+        </style>
+    </defs>
+    <path class="a" d="M2.783 16.217A9.5 9.5 0 1 1 16.217 2.783 9.5 9.5 0 1 1 2.783 16.217ZM1.727 9.5A7.773 7.773 0 1 0 9.5 1.727 7.782 7.782 0 0 0 1.727 9.5Zm6.909 3.455V9.5a.864.864 0 1 1 1.727 0v3.455a.864.864 0 0 1-1.727 0ZM8.89 7.52a.865.865 0 1 1 .61.252.864.864 0 0 1-.61-.252Z"/>
+    <g style="clip-path:url(#a)">
+        <path class="a" transform="translate(-.86 -.86)" d="M0 0h20.727v20.727H0z" style="filter:url(#b)"/>
+    </g>
+</svg>

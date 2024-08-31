@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "138215864614",
+    "project_id": "gocare-394006",
+    "storage_bucket": "gocare-394006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138215864614:android:3ac3f313529234bf60a9e7",
+        "android_client_info": {
+          "package_name": "com.carepay.moveToEarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138215864614-c8b9usevo5nrdecmp72dmljujbllebo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carepay.moveToEarn",
+            "certificate_hash": "ab5c8aa5e6a4169edb5550f820dafa81b8e6b93f"
+          }
+        },
+        {
+          "client_id": "138215864614-dojl5tld3jnjff3bjdijolkpgbv8be6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carepay.moveToEarn",
+            "certificate_hash": "94f2dd5f47d08d720fc29b27001e2988c39d96d0"
+          }
+        },
+        {
+          "client_id": "138215864614-tnpr4degmae7ermcc76vr48722pomqnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7iQCgHMBVTqhSWY3yYoKMmDWMv2SWIAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138215864614-tnpr4degmae7ermcc76vr48722pomqnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138215864614-ddmee5tr46gp4rg0okgqbjagtogh9dn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carepay.moveToEarn"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8500838700347205~9370957160"
+    }
+  ],
+  "configuration_version": "1"
+}

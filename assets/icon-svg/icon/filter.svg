@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.003" height="20.001" viewBox="0 0 22.003 20.001">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M13,20a.99.99,0,0,1-.446-.107l-4-2A1,1,0,0,1,8,17V10.826L.238,1.646A.991.991,0,0,1,.095.579.99.99,0,0,1,1,0H21a.991.991,0,0,1,.908.579.991.991,0,0,1-.144,1.067L14,10.826V19A1,1,0,0,1,13,20ZM3.157,2,9.766,9.815A1,1,0,0,1,10,10.46v5.922l2,1V10.46a1,1,0,0,1,.237-.645L18.847,2Z" transform="translate(1 2)" fill="#8c95b0"/>
+    </clipPath>
+    <filter id="_Icon_Color" x="-61" y="-44" width="144" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#6b67d2" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_62" data-name="Mask Group 62" transform="translate(-1 -2)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 1, 2)" filter="url(#_Icon_Color)">
+      <rect id="_Icon_Color-2" data-name="↳ Icon Color" width="24" height="24" transform="translate(-1 -2)" fill="#8c95b0"/>
+    </g>
+  </g>
+</svg>
