@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454885095599",
+    "project_id": "go-care-390504",
+    "storage_bucket": "go-care-390504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454885095599:android:1e2d812035cbbc5125fc5a",
+        "android_client_info": {
+          "package_name": "com.carepay.moveToEarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454885095599-tsoikng4qh2hpil5vodjkn9pupotusrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqtWHG9yWv3WnAZ4IgP6OUJJK_HDRxer4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454885095599-tsoikng4qh2hpil5vodjkn9pupotusrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

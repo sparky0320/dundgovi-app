@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.5" height="16.958" viewBox="0 0 18.5 16.958">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="18.5" height="16.958" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_7" data-name="Repeat Grid 7" clip-path="url(#clip-path)">
+    <g transform="translate(-216.627 -349.042)">
+      <path id="fi-rr-envelope" d="M14.646,1H3.854A3.859,3.859,0,0,0,0,4.854V14.1a3.859,3.859,0,0,0,3.854,3.854H14.646A3.859,3.859,0,0,0,18.5,14.1V4.854A3.859,3.859,0,0,0,14.646,1ZM3.854,2.542H14.646A2.312,2.312,0,0,1,16.789,4l-5.9,5.9a2.318,2.318,0,0,1-3.271,0L1.711,4A2.313,2.313,0,0,1,3.854,2.542ZM14.646,16.417H3.854A2.312,2.312,0,0,1,1.542,14.1V6.01l4.983,4.98a3.86,3.86,0,0,0,5.451,0l4.983-4.98V14.1A2.312,2.312,0,0,1,14.646,16.417Z" transform="translate(216.627 348.042)" fill="#8c95b0"/>
+    </g>
+  </g>
+</svg>
